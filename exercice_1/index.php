@@ -1,5 +1,5 @@
 <?php
-function isTheSkyBlue() : bool {
+function isTheSkyBlue() {
   return true;
 }
 echo isTheSkyBlue();
